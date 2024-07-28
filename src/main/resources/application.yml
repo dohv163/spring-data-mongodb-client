@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+  data:
+    mongodb:
+      database: local_demo
+      uri: mongodb://localhost:27017
